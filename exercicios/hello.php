@@ -1,6 +1,4 @@
 <?php
-echo "Hello world";
-
-echo "O Alex é gay";
-
+echo "Hello world! Alexandre";
+echo "Está Frio!";
 ?>
